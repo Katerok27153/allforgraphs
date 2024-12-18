@@ -1,15 +1,15 @@
 import unittest
-from allforgraphs.algorithms.kr_max import *
-from allforgraphs.algorithms.kr_min import *
-from allforgraphs.algorithms.prima_max import *
-from allforgraphs.algorithms.prima_min import *
-from allforgraphs.algorithms.euler_gr import *
-from allforgraphs.algorithms.dr import *
-from allforgraphs.matrices.matr_sm import *
-from allforgraphs.matrices.matr_inz import *
-from allforgraphs.matrices.matr_vs import *
-from allforgraphs.matrices.tz import *
-from allforgraphs.matrices.wf import *
+from allforgraphs2.algorithms.kr_max import *
+from allforgraphs2.algorithms.kr_min import *
+from allforgraphs2.algorithms.prima_max import *
+from allforgraphs2.algorithms.prima_min import *
+from allforgraphs2.algorithms.euler_gr import *
+from allforgraphs2.algorithms.dr import *
+from allforgraphs2.matrices.matr_sm import *
+from allforgraphs2.matrices.matr_inz import *
+from allforgraphs2.matrices.matr_vs import *
+from allforgraphs2.matrices.tz import *
+from allforgraphs2.matrices.wf import *
 
 class TestGraphAlgorithms(unittest.TestCase):
 

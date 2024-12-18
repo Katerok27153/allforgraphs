@@ -15,7 +15,7 @@ allforgraphs состоит из двух модулей:
 
 Чтобы начать работу с allforgraphs, установите её через pip:
 
-```pip install allforgraphs```
+```pip install allforgraphs2```
 
 
 ## Using ##
